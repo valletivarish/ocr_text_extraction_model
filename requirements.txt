@@ -1,0 +1,7 @@
+pytesseract
+pdf2image
+opencv-python
+pandas
+scikit-learn
+numpy
+joblib 
